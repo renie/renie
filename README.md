@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hello there :biking_man:
 
-<!--
-**renie/renie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Renie** (en: he-ni-E | IPA: /ʁenje/) a Full-Stack Developer :computer: , with some works as DevOps/Sysadmin, for the last 16 years :older_man:.
 
-Here are some ideas to get you started:
+#### Frontend:
+- JS, TS, HTML, CSS, SVG
+- WAI-ARIA, WCAG
+- UX, A/B testing
+- React, Svelte, SolidJS, Vue, Next.js, Nuxt.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Backend:
+- NodeJS, PHP, Python, Ruby, Java
+- MySQL, PostgreSQL, MongoDB
+- NestJS, Symfony, Cake, CodeIgniter, Flask, Bottle, Rails, Spring
+
+#### DevOps/Sysadmin:
+- Bare *nix environment, AWS, Heroku
+- Docker, Xen, Proxmox
+- Nginx, Apache, PM2, Tomcat
+- Shellscript
+
+## Opensource participation
+- Project Member of [tldr](https://github.com/tldr-pages)
+  - Translations and NodeJS client 
+
+## :sailboat: Languages:
+- Portuguese :brazil:
+- English :gb:
+- Spanish :es:
+- Ukrainian (in progress) :ukraine:
+
+## :mailbox: Contact
+- Email: reniedev.github@3nie.com
+- XMPP: r.3nie@conversations.im
+- Matrix: @reniesiqueira:matrix.org
+- Website: https://3nie.com
+
+## Last Hacktoberfest :beers:
+[![An image of @renie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/renie)](https://holopin.io/@renie)
