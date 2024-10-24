@@ -1,6 +1,8 @@
 ## Hello there :biking_man:
 
-**I am Renie** (en: he-ni-E | IPA: /ʁenje/) a Full-Stack Developer :computer: , with some works as DevOps/Sysadmin, for the last 16 years :older_man:.
+**I am Renie** <sup>(en: he-ni-E | IPA: /ʁenje/)</sup>,
+
+A Full-Stack Developer :computer:, with some works as DevOps/Sysadmin, for the last 16 years :older_man:.
 
 #### Frontend:
 - JS, TS, HTML, CSS, SVG
