@@ -2,7 +2,7 @@
 
 **I am Renie** <sup>(en: he-ni-E | IPA: /ʁenje/)</sup>,
 
-A Full-Stack Developer :computer:, with some works as DevOps/Sysadmin, for the last 16 years :older_man:.
+A Full-Stack Developer :computer:, with some works as DevOps/Sysadmin, for the last 17 years :older_man:.
 
 #### Frontend:
 - JS, TS, HTML, CSS, SVG
@@ -11,7 +11,7 @@ A Full-Stack Developer :computer:, with some works as DevOps/Sysadmin, for the l
 - React, Svelte, SolidJS, Vue, Next.js, Nuxt.js
 
 #### Backend:
-- NodeJS, PHP, Python, Ruby, Java
+- NodeJS, Typescript, PHP, Python, Ruby, Java
 - MySQL, PostgreSQL, MongoDB
 - NestJS, Symfony, Cake, CodeIgniter, Flask, Bottle, Rails, Spring
 
